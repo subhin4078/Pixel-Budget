@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/shortcut_home"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/notification_shortcut_home"
+        android:padding="12dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_notification_home"/>
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="20dp"
+        android:background="#806D5B7F"/>
+
+    <TextView
+        android:id="@+id/shortcut_income"
+        style="@android:style/TextAppearance.Material.Notification.Title"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/notification_shortcut_income"
+        android:textColor="@color/notification_shortcut_text"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="20dp"
+        android:background="#806D5B7F"/>
+
+    <TextView
+        android:id="@+id/shortcut_expense"
+        style="@android:style/TextAppearance.Material.Notification.Title"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/notification_shortcut_expense"
+        android:textColor="@color/notification_shortcut_text"
+        android:textSize="18sp"/>
+</LinearLayout>

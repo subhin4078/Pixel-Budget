@@ -1,0 +1,38 @@
+Copyright (c) 2026 subhin. All Rights Reserved.
+
+PERSONAL USE ONLY — NO COMMERCIAL USE, NO REUSE OR REDISTRIBUTION
+
+This repository is made publicly viewable for transparency and personal use only.
+Except where explicitly stated below for third-party components, all source code,
+artwork, illustrations, icons, designs, documentation, and other files in this
+repository are proprietary and protected by copyright.
+
+Permitted:
+- You may view the source code and install or build the application strictly for
+  your own private, non-commercial personal use.
+
+Not Permitted:
+- You may NOT sell, monetize, rent, lease, sublicense, or use this application
+  or any part of this repository for any commercial purpose.
+- You may NOT copy, reproduce, reuse, modify, adapt, merge, publish, distribute,
+  re-upload, or create derivative works from any code, visual assets, artwork,
+  icons, UI designs, or other materials in this repository in any format, whether
+  in whole or in part, for public or private projects, without prior written
+  permission from the copyright holder.
+
+Third-Party Components:
+- The bundled fonts remain governed by their respective open licenses:
+  - Fredoka (`assets/fonts/Fredoka-*.ttf`): SIL Open Font License 1.1
+    (`assets/fonts/Fredoka-OFL.txt`).
+  - jf open 粉圓 (`assets/fonts/JfOpenHuninn.ttf`): SIL Open Font License 1.1
+    (`assets/fonts/JfOpenHuninn-OFL.txt`); Hanzi glyphs derived from Motoya
+    Kosugi Maru are licensed under the Apache License 2.0.
+- Third-party Flutter/Dart/Android dependencies remain subject to their
+  respective licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

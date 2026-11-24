@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_shortcuts_channel">快捷記帳</string>
+    <string name="notification_shortcuts_description">從通知欄直接開啟首頁或新增收支</string>
+    <string name="notification_shortcut_home">首頁</string>
+    <string name="notification_shortcut_income">＋收入</string>
+    <string name="notification_shortcut_expense">＋支出</string>
+    <color name="notification_shortcut_text">#302B3B</color>
+</resources>
